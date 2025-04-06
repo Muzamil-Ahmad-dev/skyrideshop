@@ -187,7 +187,7 @@ const productData = [
     id: 16,
     name: "Electric Scooter",
     category: "Electric Scooter",
-    image: "/assest/bike2.jpg",
+    image: "assest/bike2.jpg",
     price: "$1,200",
     description: "Eco-friendly city commuting.",
     details: "Top speed 30 km/h. Long-lasting battery. Lightweight frame. Great for urban rides.",
