@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skyrideshop/static/css/main.722eafe8.css",
+    "main.js": "/skyrideshop/static/js/main.cd367093.js",
+    "static/js/453.1d1eda03.chunk.js": "/skyrideshop/static/js/453.1d1eda03.chunk.js",
+    "index.html": "/skyrideshop/index.html",
+    "main.722eafe8.css.map": "/skyrideshop/static/css/main.722eafe8.css.map",
+    "main.cd367093.js.map": "/skyrideshop/static/js/main.cd367093.js.map",
+    "453.1d1eda03.chunk.js.map": "/skyrideshop/static/js/453.1d1eda03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.cd367093.js"
+  ]
+}
